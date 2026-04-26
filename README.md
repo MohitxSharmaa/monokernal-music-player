@@ -113,11 +113,7 @@ Mohit Sharma
 
 ---
 
-## 📜 License
 
-MIT License
-
----
 
 ## ⭐ Support
 
